@@ -105,6 +105,8 @@ venv.bak/
 
 # Ingore saved images
 *.png
+*.jpeg
+*.jpg
 
 # Compressed files
 *.zip
