@@ -112,7 +112,8 @@ venv.bak/
 *.zip
 
 #
-grupo.txt
+*.txt
+images/*
 
 \#*#
 *~
